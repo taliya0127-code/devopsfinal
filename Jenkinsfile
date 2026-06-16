@@ -11,4 +11,5 @@ stage ('Package'){
 	sh 'mvn package'
 	}
 }
+	}
 }
